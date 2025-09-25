@@ -7,7 +7,7 @@ Each lab is a **chapter**, focusing on specific tools, commands, and techniques 
 The purpose of this repo is:
 - To practice **network security fundamentals** on Ubuntu servers.
 - To demonstrate **hands-on technical skills** with industry tools (Nmap, netstat, tcpdump, ufw, etc.).
-- To build a **portfolio** that can be shared with employers as proof of my cybersecurity and system administration knowledge.
+- To build a **portfolio** that can be shared with employers as proof of my Network Security and system administration knowledge.
 
 ---
 
