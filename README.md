@@ -13,7 +13,7 @@ The purpose of this repo is:
 
 ## Chapters
 - [Exploring Ubuntu Home Lab](Exploring_Ubuntu_Home_Lab.md)
-
+- [Exploring UFW Firewall](Exploring_UFW_Firewall.md)
 ---
 
 ## Tools Covered
