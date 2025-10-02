@@ -22,7 +22,12 @@ The purpose of this repo is:
 - **lsof** → active connections  
 - **nmap** → scanning, services, versions, vulnerabilities  
 - **tcpdump** → packet capture & traffic analysis  
-- **ufw** → firewall rules  
+- **ufw** → firewall rules
+- **UFW (Uncomplicated Firewall)** → enable/disable firewall, manage rules, allow/deny traffic, block IPs, allow specific IP/port access.  
+- **ss (Socket Statistics)** → check open/listening TCP & UDP ports.  
+- **lsof (List Open Files)** → identify which service is using a given port.  
+- **tail** → monitor log files in real time (`/var/log/ufw.log`).  
+- **grep** → filter logs for specific patterns (e.g., `DENY`, `ALLOW`).
 
 ---
 
