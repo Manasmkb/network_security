@@ -1,17 +1,8 @@
 # Exploring UFW Firewall on Ubuntu (Assignment 5)
 
 This lab walks through enabling and managing the **UFW (Uncomplicated Firewall)** on Ubuntu.  
-For each step: **run the command → observe output → take a screenshot → write what you learned.**  
-Replace the image placeholders with your actual screenshots saved in `screenshots/`.
-
-> Tip: If any command says “command not found”, install the package first with:
-> ```bash
-> sudo apt update
-> sudo apt install <package-name> -y
-> ```
 
 ---
-
 
 ## I. Enable UFW (Uncomplicated Firewall) )
 
