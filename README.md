@@ -14,6 +14,7 @@ The purpose of this repo is:
 ## Chapters
 - [Exploring Ubuntu Home Lab](Exploring_Ubuntu_Home_Lab.md)
 - [Exploring UFW Firewall](Exploring_UFW_Firewall.md)
+- [Exploring Snort IDPS](Exploring_Snort_IDPS.md)
 ---
 
 ## Tools Covered
@@ -28,6 +29,7 @@ The purpose of this repo is:
 - **lsof (List Open Files)** → identify which service is using a given port.  
 - **tail** → monitor log files in real time (`/var/log/ufw.log`).  
 - **grep** → filter logs for specific patterns (e.g., `DENY`, `ALLOW`).
+- **snort** → installing and configuring Snort.
 
 ---
 
